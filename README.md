@@ -3,5 +3,4 @@
 
 
 ## To run:
-python3 -m pip install Pillow
-python3 generate_tierlist.py
+python3 -m pip install Pillow && python3 generate_tierlist.py
