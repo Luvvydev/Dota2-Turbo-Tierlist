@@ -4,3 +4,6 @@
 
 ## To run:
 python3 -m pip install Pillow && python3 generate_tierlist.py
+
+tierlist credit: 
+"Dota 2 PowerPoints" on YT
